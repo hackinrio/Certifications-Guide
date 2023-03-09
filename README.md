@@ -39,7 +39,7 @@ https://pauljerimy.com/security-certification-roadmap/
 |  Nível  | Link | Conteúdo |
 | ------------- | ------------- | ---------- |
 |  **Básico** |  |  |
-| LPIC-1 | https://www.lpi.org/our-certifications/lpic-1-overview | LPIC-1 é a primeira certificação no programa de certificação profissional Linux de vários níveis do Linux Professional Institute (LPI). O LPIC-1 validará a capacidade do candidato de executar tarefas de manutenção na linha de comando, instalar e configurar um computador com Linux e configurar redes básicas. |
+| LPIC-1 | https://www.lpi.org/our-certifications/lpic-1-overview | LPIC-1 é a primeira certificação no programa de certificação profissional Linux de vários níveis do Linux Professional Institute (LPI).  O LPIC-1 validará a capacidade do candidato de executar tarefas de manutenção na linha de comando, instalar e configurar um computador com Linux e configurar redes básicas. |
 | **Intermediário** |  |  |
 | .  |  |  |
 | **Avançado** |   |  |
